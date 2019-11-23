@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Educascope Video Gallery
+Icon=/home/pi/educascopeApp/icons/videoIcon.png
+Exec=pcmanfm -d /home/pi/educascopeApp/video/
+Type=Application
+Encoding=UTF-8
+Terminal=False
+Categories=None
+Name[es_MX]=Educascope

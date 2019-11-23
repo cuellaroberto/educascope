@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Educascope Photo Gallery
+Icon=/home/pi/educascopeApp/icons/pictureIcon.png
+Exec=pcmanfm -d /home/pi/educascopeApp/img/
+Type=Application
+Encoding=UTF-8
+Terminal=False
+Categories=None
+Name[es_MX]=Educascope

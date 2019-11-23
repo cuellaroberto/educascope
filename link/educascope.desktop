@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Educascope App
+Icon=/home/pi/educascopeApp/icons/logo.png
+Exec=lxterminal -t "Educascope" --working-directory=/home/pi/educascopeApp/ -e ./openApp.sh
+Type=Application
+Encoding=UTF-8
+Terminal=False
+Categories=None
+Name[es_MX]=Educascope
